@@ -52,6 +52,7 @@
 |CHR_000048|A.A.|
 |CHR_000049|Ophelia|
 |**X**|Armstrong|
+|CHR_000051|Sophia|
 ---
 ## Credit
 **Perfare** - [AssetStudio](https://github.com/Perfare/AssetStudio)
