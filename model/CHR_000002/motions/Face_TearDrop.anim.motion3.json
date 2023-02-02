@@ -1,0 +1,117 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 4.0,
+    "Fps": 60.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 3,
+    "TotalSegmentCount": 14,
+    "TotalPointCount": 30,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamTearsDrop",
+      "Segments": [
+        0,
+        0,
+        2,
+        0.983,
+        0,
+        1,
+        1.111,
+        0,
+        1.239,
+        0.418,
+        1.367,
+        3,
+        1,
+        1.55,
+        6.705,
+        1.734,
+        10,
+        1.917,
+        10,
+        2,
+        4,
+        10
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamTearsL",
+      "Segments": [
+        0,
+        0,
+        1,
+        0.222,
+        0,
+        0.445,
+        0.296,
+        0.667,
+        1.667,
+        1,
+        0.817,
+        2.593,
+        0.967,
+        4.736,
+        1.117,
+        5.922,
+        1,
+        1.484,
+        8.822,
+        1.85,
+        10,
+        2.217,
+        10,
+        2,
+        4,
+        10
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamTearsR",
+      "Segments": [
+        0,
+        0,
+        2,
+        0.267,
+        0,
+        1,
+        0.478,
+        0,
+        0.689,
+        0.329,
+        0.9,
+        1.667,
+        1,
+        1.056,
+        2.653,
+        1.211,
+        4.524,
+        1.367,
+        5.755,
+        1,
+        1.739,
+        8.7,
+        2.111,
+        10,
+        2.483,
+        10,
+        2,
+        4,
+        10
+      ]
+    }
+  ],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}

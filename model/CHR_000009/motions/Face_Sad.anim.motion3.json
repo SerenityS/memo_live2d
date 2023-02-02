@@ -1,0 +1,110 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 0.017,
+    "Fps": 60.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 8,
+    "TotalSegmentCount": 9,
+    "TotalPointCount": 9,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowLY",
+      "Segments": [
+        0,
+        0.81,
+        0,
+        0.017,
+        0.81
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowLAngle",
+      "Segments": [
+        0,
+        0.416,
+        0,
+        0.017,
+        0.416
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowLForm",
+      "Segments": [
+        0,
+        -0.6,
+        0,
+        0.017,
+        -0.6
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRY",
+      "Segments": [
+        0,
+        0.624,
+        0,
+        0.017,
+        0.624
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRAngle",
+      "Segments": [
+        0,
+        0.77,
+        0,
+        0.017,
+        0.77
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamBrowRForm",
+      "Segments": [
+        0,
+        -0.8,
+        0,
+        0.017,
+        -0.8
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthForm",
+      "Segments": [
+        0,
+        -0.526,
+        0,
+        0.017,
+        -0.526
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "ParamMouthSize",
+      "Segments": [
+        0,
+        -0.5,
+        0,
+        0.017,
+        -0.5
+      ]
+    }
+  ],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}

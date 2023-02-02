@@ -7,7 +7,80 @@
     ],
     "Physics": "model.physics3.json",
     "Motions": {
-      "": []
+      "": [
+        {
+          "File": "motions/Face_Eye_Close.anim.motion3.json"
+        },
+        {
+          "File": "motions/Memory_In.anim.motion3.json"
+        },
+        {
+          "File": "motions/Idle_Action.anim.motion3.json"
+        },
+        {
+          "File": "motions/Talk_In.anim.motion3.json"
+        },
+        {
+          "File": "motions/Idle.anim.motion3.json"
+        },
+        {
+          "File": "motions/Memory_Out.anim.motion3.json"
+        },
+        {
+          "File": "motions/Face_Unique1.anim.motion3.json"
+        },
+        {
+          "File": "motions/Talk_Out.anim.motion3.json"
+        },
+        {
+          "File": "motions/Memory_Out_End.anim.motion3.json"
+        },
+        {
+          "File": "motions/Face_Look_Right.anim.motion3.json"
+        },
+        {
+          "File": "motions/Face_Look_Left.anim.motion3.json"
+        },
+        {
+          "File": "motions/Memory_Loop.anim.motion3.json"
+        },
+        {
+          "File": "motions/Face_Eye_Grin.anim.motion3.json"
+        },
+        {
+          "File": "motions/Face_Glad.anim.motion3.json"
+        },
+        {
+          "File": "motions/Face_Sad.anim.motion3.json"
+        },
+        {
+          "File": "motions/Face_Look_Down.anim.motion3.json"
+        },
+        {
+          "File": "motions/Loop1.anim.motion3.json"
+        },
+        {
+          "File": "motions/EF_Idle.anim.motion3.json"
+        },
+        {
+          "File": "motions/Face_Look_Up.anim.motion3.json"
+        },
+        {
+          "File": "motions/Face_Angry.anim.motion3.json"
+        },
+        {
+          "File": "motions/Face_Smile.anim.motion3.json"
+        },
+        {
+          "File": "motions/Skill.anim.motion3.json"
+        },
+        {
+          "File": "motions/Face_Surprise.anim.motion3.json"
+        },
+        {
+          "File": "motions/Talk_Loop.anim.motion3.json"
+        }
+      ]
     }
   },
   "Groups": [

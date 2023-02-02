@@ -1,0 +1,996 @@
+{
+  "Version": 3,
+  "Meta": {
+    "Duration": 7.983,
+    "Fps": 60.0,
+    "Loop": true,
+    "AreBeziersRestricted": true,
+    "CurveCount": 58,
+    "TotalSegmentCount": 139,
+    "TotalPointCount": 187,
+    "UserDataCount": 1,
+    "TotalUserDataSize": 0
+  },
+  "Curves": [
+    {
+      "Target": "Parameter",
+      "Id": "Param63",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param64",
+      "Segments": [
+        0,
+        0,
+        1,
+        1.328,
+        14.554,
+        2.655,
+        30,
+        3.983,
+        30,
+        2,
+        4,
+        -30,
+        1,
+        5.328,
+        -30,
+        6.655,
+        -14.554,
+        7.983,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param65",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param66",
+      "Segments": [
+        0,
+        0,
+        1,
+        1.328,
+        14.257,
+        2.655,
+        30,
+        3.983,
+        30,
+        2,
+        4,
+        -30,
+        1,
+        5.328,
+        -30,
+        6.655,
+        -13.96,
+        7.983,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param67",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param68",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param69",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param70",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param71",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param72",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param73",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param74",
+      "Segments": [
+        0,
+        0,
+        1,
+        1.328,
+        14.554,
+        2.655,
+        30,
+        3.983,
+        30,
+        2,
+        4,
+        -30,
+        1,
+        5.328,
+        -30,
+        6.655,
+        -15.149,
+        7.983,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param75",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param76",
+      "Segments": [
+        0,
+        0,
+        1,
+        1.328,
+        13.96,
+        2.655,
+        30,
+        3.983,
+        30,
+        2,
+        4,
+        -30,
+        1,
+        5.328,
+        -30,
+        6.655,
+        -13.96,
+        7.983,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param77",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param78",
+      "Segments": [
+        0,
+        0,
+        1,
+        1.328,
+        14.247,
+        2.655,
+        30,
+        3.983,
+        30,
+        2,
+        4,
+        -30,
+        1,
+        5.328,
+        -30,
+        6.655,
+        -14.047,
+        7.983,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param79",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param80",
+      "Segments": [
+        0,
+        0,
+        1,
+        1.328,
+        14.448,
+        2.655,
+        30,
+        3.983,
+        30,
+        2,
+        4,
+        -30,
+        1,
+        5.328,
+        -30,
+        6.655,
+        -13.445,
+        7.983,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param81",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param82",
+      "Segments": [
+        0,
+        0,
+        1,
+        1.328,
+        14.649,
+        2.655,
+        30,
+        3.983,
+        30,
+        2,
+        4,
+        -30,
+        1,
+        5.328,
+        -30,
+        6.655,
+        -14.047,
+        7.983,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param83",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param84",
+      "Segments": [
+        0,
+        0,
+        1,
+        1.328,
+        14.047,
+        2.655,
+        30,
+        3.983,
+        30,
+        2,
+        4,
+        -30,
+        1,
+        5.328,
+        -30,
+        6.655,
+        -14.247,
+        7.983,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param85",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param86",
+      "Segments": [
+        0,
+        0,
+        1,
+        1.328,
+        14.247,
+        2.655,
+        30,
+        3.983,
+        30,
+        2,
+        4,
+        -30,
+        1,
+        5.328,
+        -30,
+        6.655,
+        -14.448,
+        7.983,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param87",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param88",
+      "Segments": [
+        0,
+        0,
+        1,
+        1.328,
+        14.667,
+        2.655,
+        30,
+        3.983,
+        30,
+        2,
+        4,
+        -30,
+        1,
+        5.328,
+        -30,
+        6.655,
+        -14.222,
+        7.983,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param89",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param90",
+      "Segments": [
+        0,
+        0,
+        1,
+        1.328,
+        15,
+        2.655,
+        26.273,
+        3.983,
+        30,
+        3,
+        4,
+        -30,
+        1,
+        5.328,
+        -30,
+        6.655,
+        -14.222,
+        7.983,
+        0
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param91",
+      "Segments": [
+        0,
+        -30,
+        0,
+        7.983,
+        30
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Id": "Param92",
+      "Segments": [
+        0,
+        0,
+        1,
+        1.328,
+        15,
+        2.655,
+        26.273,
+        3.983,
+        30,
+        2,
+        4,
+        -30,
+        1,
+        5.328,
+        -30,
+        6.655,
+        -14.667,
+        7.983,
+        0
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part2",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part3",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part4",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part5",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part6",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part7",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part8",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part9",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part10",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part11",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part12",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part13",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part14",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part15",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part16",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part17",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part18",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part19",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part20",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part21",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part22",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part23",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part24",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part25",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part26",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part27",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    },
+    {
+      "Target": "PartOpacity",
+      "Id": "Part28",
+      "Segments": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        2,
+        4,
+        1,
+        2,
+        7.98,
+        1
+      ]
+    }
+  ],
+  "UserData": [
+    {
+      "Time": 0.0,
+      "Value": ""
+    }
+  ]
+}
