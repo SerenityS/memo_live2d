@@ -1,0 +1,95 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "CHR_000006.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": "CHR_000006.physics3.json",
+    "Motions": {
+      "": [
+        {
+          "File": "motions/Idle.motion3.json"
+        },
+        {
+          "File": "motions/Idle_Action.motion3.json"
+        },
+        {
+          "File": "motions/Memory_Loop.motion3.json"
+        },
+        {
+          "File": "motions/Face_Look_Right.motion3.json"
+        },
+        {
+          "File": "motions/Face_Surprise.motion3.json"
+        },
+        {
+          "File": "motions/Face_Smile.motion3.json"
+        },
+        {
+          "File": "motions/Face_Look_Down.motion3.json"
+        },
+        {
+          "File": "motions/Face_Eye_Grin.motion3.json"
+        },
+        {
+          "File": "motions/Face_Look_Left.motion3.json"
+        },
+        {
+          "File": "motions/Memory_Out_End.motion3.json"
+        },
+        {
+          "File": "motions/Memory_Out.motion3.json"
+        },
+        {
+          "File": "motions/Skill.motion3.json"
+        },
+        {
+          "File": "motions/Face_Look_Up.motion3.json"
+        },
+        {
+          "File": "motions/Face_Glad.motion3.json"
+        },
+        {
+          "File": "motions/Face_Sad.motion3.json"
+        },
+        {
+          "File": "motions/Face_Unique1.motion3.json"
+        },
+        {
+          "File": "motions/Talk_In.motion3.json"
+        },
+        {
+          "File": "motions/Face_Eye_Close.motion3.json"
+        },
+        {
+          "File": "motions/Memory_In.motion3.json"
+        },
+        {
+          "File": "motions/Face_Angry.motion3.json"
+        },
+        {
+          "File": "motions/Face_TearDrop.motion3.json"
+        },
+        {
+          "File": "motions/Talk_Loop.motion3.json"
+        },
+        {
+          "File": "motions/Talk_Out.motion3.json"
+        },
+        {
+          "File": "motions/EF_Idle.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}
