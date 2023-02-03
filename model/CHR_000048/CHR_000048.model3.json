@@ -1,11 +1,11 @@
 {
   "Version": 3,
   "FileReferences": {
-    "Moc": "model.moc3",
+    "Moc": "CHR_000048.moc3",
     "Textures": [
       "textures/texture_00.png"
     ],
-    "Physics": "model.physics3.json",
+    "Physics": "CHR_000048.physics3.json",
     "Motions": {
       "": [
         {
